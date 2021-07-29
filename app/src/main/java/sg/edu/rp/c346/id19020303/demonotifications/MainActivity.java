@@ -74,6 +74,7 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
+        //Notification Style
         btnNotify2.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
